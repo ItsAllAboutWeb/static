@@ -7,7 +7,10 @@
     "Do not miss the opportunity to interact with various community leaders from the Angular, React, Vue, and Svelte community, as they join us to share their wisdom about performance optimizations.",
     "If you are aware of who in your team would benefit from this content, please share this link with your team member so that they can register!"
   ],
-  "banner": "/the-perf-sprint-for-web-banner.svg",
+  "banner": {
+    "url": "/the-perf-sprint-for-web-banner",
+    "ext": "svg"
+  },
   "date": "Aug 15, 2020",
   "time": "03 PM",
   "timeZone": "IST",
