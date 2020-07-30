@@ -12,7 +12,7 @@
   "time": "03 PM",
   "timeZone": "IST",
   "register": "",
-  "isLiver": true,
+  "isLive": true,
   "isFree": true,
   "schedule": [{
     "time": ["03:00 PM", "03:14 PM"],
