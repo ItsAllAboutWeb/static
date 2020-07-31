@@ -19,7 +19,7 @@
     "time": ["03:00 PM", "03:14 PM"],
     "title": "Welcome",
     "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "",
+    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
     "speaker": [{
       "name": "Srashti Jain",
       "avatar": "/srashti-jain.png",
@@ -37,7 +37,7 @@
     "time": ["03:15 PM", "03:44 PM"],
     "title": "Getting started with Svelte",
     "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "",
+    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
     "speaker": [{
       "name": "Rich Harris",
       "avatar": "/rich-harris.jpeg",
@@ -55,7 +55,7 @@
     "time": ["03:45 PM", "04:14 PM"],
     "title": "Performance optimisations in Angular",
     "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "",
+    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
     "speaker": [{
       "name": "Santosh Yadav",
       "avatar": "/santosh-yadav.jpg",
@@ -73,7 +73,7 @@
     "time": ["04:15 PM", "04:44 PM"],
     "title": "Minimise your bundle size in Vue",
     "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "",
+    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
     "speaker": [{
       "name": "Santosh Yadav",
       "avatar": "/santosh-yadav.jpg",
@@ -91,7 +91,7 @@
     "time": ["04:45 PM", "05:14 PM"],
     "title": "Moving away from classes in React",
     "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "",
+    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
     "speaker": [{
       "name": "Ashok Vishwakarma",
       "avatar": "/ashok-vishwakarma.png",
@@ -109,7 +109,7 @@
     "time": ["05:15 PM", "05:30 PM"],
     "title": "Quiz and Wrap Up",
     "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "",
+    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
     "speaker": [{
       "name": "Gaurav Chouhan",
       "avatar": "/gaurav-chouhan.png",
