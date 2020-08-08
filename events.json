@@ -1,139 +1,161 @@
-[{
-  "slug": "the-perf-sprint-for-web",
-  "title": "The Perf Sprint for Web",
-  "description": [
-    "The Perf Sprint for Web is an event for top developers from all over the world who are building amazing experiences on the web but often struggle with performance and want to optimize things.",
-    "The sessions hosted in this event will be helpful to technology enthusiasts from from Junior Developers to Senior Technical Architect. The sessions will be on multiple aspects of modern web development through the journeys of experienced developers from the community. This exclusive content will cover tips, tricks, tools and engines that can help improve your process, and performance of your applications while making you more productive!",
-    "Do not miss the opportunity to interact with various community leaders from the Angular, React, Vue, and Svelte community, as they join us to share their wisdom about performance optimizations.",
-    "If you are aware of who in your team would benefit from this content, please share this link with your team member so that they can register!"
-  ],
-  "banner": "/the-perf-sprint-for-web-banner.svg",
-  "bannerAnim": "/the-perf-sprint-for-web-banner-animated.svg",
-  "date": "Aug 15, 2020",
-  "time": "03 PM",
-  "timeZone": "IST",
-  "register": "",
-  "isLive": true,
-  "isFree": true,
-  "schedule": [{
-    "time": ["03:00 PM", "03:14 PM"],
-    "title": "Welcome",
-    "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-    "speaker": [{
-      "name": "Srashti Jain",
-      "avatar": "/srashti-jain.png",
-      "company": "All About Web",
-      "designation": "Co-founder",
-      "social": {
-        "twiiter": "https://twitter.com/srashtisj",
-        "linkedin": "https://www.linkedin.com/in/srashtisj",
-        "github": "",
-        "stackoverflow": "",
-        "website": ""
+[
+  {
+    "slug": "the-perf-sprint-for-web",
+    "title": "The Perf Sprint for Web",
+    "description": [
+      "The Perf Sprint for Web is an event for top developers from all over the world who are building amazing experiences on the web but often struggle with performance and want to optimize things.",
+      "The sessions hosted in this event will be helpful to technology enthusiasts from from Junior Developers to Senior Technical Architect. The sessions will be on multiple aspects of modern web development through the journeys of experienced developers from the community. This exclusive content will cover tips, tricks, tools and engines that can help improve your process, and performance of your applications while making you more productive!",
+      "Do not miss the opportunity to interact with various community leaders from the Angular, React, Vue, and Svelte community, as they join us to share their wisdom about performance optimizations.",
+      "If you are aware of who in your team would benefit from this content, please share this link with your team member so that they can register!"
+    ],
+    "banner": "/the-perf-sprint-for-web-banner.svg",
+    "bannerAnim": "/the-perf-sprint-for-web-banner-animated.svg",
+    "date": "Aug 15, 2020",
+    "time": "03 PM",
+    "timeZone": "IST",
+    "register": "",
+    "isLive": true,
+    "isFree": true,
+    "schedule": [
+      {
+        "time": ["03:00 PM", "03:14 PM"],
+        "title": "Welcome",
+        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
+        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
+        "speaker": [
+          {
+            "name": "Srashti Jain",
+            "avatar": "/srashti-jain.png",
+            "company": "All About Web",
+            "designation": "Co-founder",
+            "social": {
+              "twiiter": "https://twitter.com/srashtisj",
+              "linkedin": "https://www.linkedin.com/in/srashtisj",
+              "github": "",
+              "stackoverflow": "",
+              "website": ""
+            }
+          }
+        ]
+      },
+      {
+        "time": ["03:15 PM", "03:44 PM"],
+        "title": "Getting started with Svelte",
+        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
+        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
+        "speaker": [
+          {
+            "name": "Rich Harris",
+            "avatar": "/rich-harris.jpeg",
+            "company": "Svelte",
+            "designation": "Creator",
+            "social": {
+              "twiiter": "https://twitter.com/Rich_Harris",
+              "linkedin": "",
+              "github": "",
+              "stackoverflow": "",
+              "website": ""
+            }
+          }
+        ]
+      },
+      {
+        "time": ["03:45 PM", "04:14 PM"],
+        "title": "Let's Optimize an Angular App",
+        "description": "When working on an enterprise application, the focus should be to make the application fast, which includes a lot of factors like lazy loading, bundle size of the application, number of API calls, In this talk, we will learn how to optimize your application using the tools available.",
+        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
+        "speaker": [
+          {
+            "name": "Santosh Yadav",
+            "avatar": "/santosh-yadav.jpg",
+            "company": "Angular",
+            "designation": "GDE",
+            "social": {
+              "twiiter": "https://twitter.com/SantoshYadavDev",
+              "linkedin": "",
+              "github": "",
+              "stackoverflow": "",
+              "website": ""
+            }
+          }
+        ]
+      },
+      {
+        "time": ["04:15 PM", "04:44 PM"],
+        "title": "Building Web Apps with VueJS that Scales",
+        "description": "In this session, you'll learn getting started with VueJS/NuxtJS, making API calls, maintaining code structure & good practices for building large scale applications",
+        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
+        "speaker": [
+          {
+            "name": "Tarun Mangukiya",
+            "avatar": "/tarun-mangukiya.jpg",
+            "company": "Iconscout",
+            "designation": "Co-founder and CTO",
+            "social": {
+              "twiiter": "https://twitter.com/TarunMangukiya",
+              "linkedin": "",
+              "github": "",
+              "stackoverflow": "",
+              "website": ""
+            }
+          }
+        ]
+      },
+      {
+        "time": ["04:45 PM", "05:14 PM"],
+        "title": "Moving away from classes in React",
+        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
+        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
+        "speaker": [
+          {
+            "name": "Ashok Vishwakarma",
+            "avatar": "/ashok-vishwakarma.png",
+            "company": "Web",
+            "designation": "GDE",
+            "social": {
+              "twiiter": "https://twitter.com/_avishwakarma",
+              "linkedin": "https://www.linkedin.com/in/avishwakarmaa",
+              "github": "",
+              "stackoverflow": "",
+              "website": "https://ashok.pro"
+            }
+          }
+        ]
+      },
+      {
+        "time": ["05:15 PM", "05:30 PM"],
+        "title": "Quiz and Wrap Up",
+        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
+        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
+        "speaker": [
+          {
+            "name": "Gaurav Chouhan",
+            "avatar": "/gaurav-chouhan.png",
+            "company": "All About Web",
+            "designation": "Co-founder",
+            "social": {
+              "twiiter": "https://twitter.com/gauravc12",
+              "linkedin": "https://www.linkedin.com/in/gauravc12/",
+              "github": "",
+              "stackoverflow": "",
+              "website": "https://gc-codes.com/"
+            }
+          },
+          {
+            "name": "Siddharth Ajmera",
+            "avatar": "/siddharth-ajmera.png",
+            "company": "Angular",
+            "designation": "GDE",
+            "social": {
+              "twiiter": "https://twitter.com/SiddAjmera",
+              "linkedin": "https://www.linkedin.com/in/siddajmera/",
+              "github": "https://github.com/SiddAjmera",
+              "stackoverflow": "https://stackoverflow.com/users/2622292/siddajmera",
+              "website": "https://siddajmera.dev/"
+            }
+          }
+        ]
       }
-    }]
-  }, {
-    "time": ["03:15 PM", "03:44 PM"],
-    "title": "Getting started with Svelte",
-    "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-    "speaker": [{
-      "name": "Rich Harris",
-      "avatar": "/rich-harris.jpeg",
-      "company": "Svelte",
-      "designation": "Creator",
-      "social": {
-        "twiiter": "https://twitter.com/Rich_Harris",
-        "linkedin": "",
-        "github": "",
-        "stackoverflow": "",
-        "website": ""
-      }
-    }]
-  }, {
-    "time": ["03:45 PM", "04:14 PM"],
-    "title": "Performance optimisations in Angular",
-    "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-    "speaker": [{
-      "name": "Santosh Yadav",
-      "avatar": "/santosh-yadav.jpg",
-      "company": "Angular",
-      "designation": "GDE",
-      "social": {
-        "twiiter": "https://twitter.com/SantoshYadavDev",
-        "linkedin": "",
-        "github": "",
-        "stackoverflow": "",
-        "website": ""
-      }
-    }]
-  }, {
-    "time": ["04:15 PM", "04:44 PM"],
-    "title": "Minimise your bundle size in Vue",
-    "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-    "speaker": [{
-      "name": "Santosh Yadav",
-      "avatar": "/santosh-yadav.jpg",
-      "company": "Angular",
-      "designation": "GDE",
-      "social": {
-        "twiiter": "https://twitter.com/SantoshYadavDev",
-        "linkedin": "",
-        "github": "",
-        "stackoverflow": "",
-        "website": ""
-      }
-    }]
-  }, {
-    "time": ["04:45 PM", "05:14 PM"],
-    "title": "Moving away from classes in React",
-    "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-    "speaker": [{
-      "name": "Ashok Vishwakarma",
-      "avatar": "/ashok-vishwakarma.png",
-      "company": "Web",
-      "designation": "GDE",
-      "social": {
-        "twiiter": "https://twitter.com/_avishwakarma",
-        "linkedin": "https://www.linkedin.com/in/avishwakarmaa",
-        "github": "",
-        "stackoverflow": "",
-        "website": "https://ashok.pro"
-      }
-    }]
-  }, {
-    "time": ["05:15 PM", "05:30 PM"],
-    "title": "Quiz and Wrap Up",
-    "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-    "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-    "speaker": [{
-      "name": "Gaurav Chouhan",
-      "avatar": "/gaurav-chouhan.png",
-      "company": "All About Web",
-      "designation": "Co-founder",
-      "social": {
-        "twiiter": "https://twitter.com/gauravc12",
-        "linkedin": "https://www.linkedin.com/in/gauravc12/",
-        "github": "",
-        "stackoverflow": "",
-        "website": "https://gc-codes.com/"
-      }
-    }, {
-      "name": "Siddharth Ajmera",
-      "avatar": "/siddharth-ajmera.png",
-      "company": "Angular",
-      "designation": "GDE",
-      "social": {
-        "twiiter": "https://twitter.com/SiddAjmera",
-        "linkedin": "https://www.linkedin.com/in/siddajmera/",
-        "github": "",
-        "stackoverflow": "",
-        "website": "https://siddajmera.dev/"
-      }
-    }]
-  }]
-}]
+    ]
+  }
+]
