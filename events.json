@@ -18,28 +18,7 @@
     "isFree": true,
     "schedule": [
       {
-        "time": ["03:00 PM", "03:14 PM"],
-        "title": "Welcome",
-        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-        "speaker": [
-          {
-            "name": "Srashti Jain",
-            "avatar": "/srashti-jain.png",
-            "company": "All About Web",
-            "designation": "Co-founder",
-            "social": {
-              "twiiter": "https://twitter.com/srashtisj",
-              "linkedin": "https://www.linkedin.com/in/srashtisj",
-              "github": "",
-              "stackoverflow": "",
-              "website": ""
-            }
-          }
-        ]
-      },
-      {
-        "time": ["03:15 PM", "03:44 PM"],
+        "time": ["03:00 PM", "03:25 PM"],
         "title": "Effective data visualization with Svelte and D3",
         "description": "D3 is the gold standard visualization library for the modern web. However, using D3 for large interactive visualizations can get cumbersome and might affect performance. Svelte to the rescue, because Svelte loves D3!",
         "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
@@ -60,7 +39,7 @@
         ]
       },
       {
-        "time": ["03:45 PM", "04:14 PM"],
+        "time": ["03:25 PM", "04:15 PM"],
         "title": "Let's Optimize an Angular App",
         "description": "When working on an enterprise application, the focus should be to make the application fast, which includes a lot of factors like lazy loading, bundle size of the application, number of API calls, In this talk, we will learn how to optimize your application using the tools available.",
         "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
@@ -81,7 +60,7 @@
         ]
       },
       {
-        "time": ["04:15 PM", "04:44 PM"],
+        "time": ["04:15 PM", "05:00 PM"],
         "title": "Building Web Apps with VueJS that Scales",
         "description": "In this session, you'll learn getting started with VueJS/NuxtJS, making API calls, maintaining code structure & good practices for building large scale applications",
         "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
@@ -102,7 +81,7 @@
         ]
       },
       {
-        "time": ["04:45 PM", "05:14 PM"],
+        "time": ["05:00 PM", "05:45 PM"],
         "title": "Moving away from classes in React",
         "description": "React has started moving away from Class Component to Function Components for a reason. We'll try and understand why the React Team is slowly and steadily driving the whole React Community in that direction.",
         "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
