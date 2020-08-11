@@ -40,17 +40,17 @@
       },
       {
         "time": ["03:15 PM", "03:44 PM"],
-        "title": "Getting started with Svelte",
-        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
+        "title": "Effective data visualization with Svelte and D3",
+        "description": "D3 is the gold standard visualization library for the modern web. However, using D3 for large interactive visualizations can get cumbersome and might affect performance. Svelte to the rescue, because Svelte loves D3!",
         "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
         "speaker": [
           {
-            "name": "Rich Harris",
-            "avatar": "/rich-harris.jpeg",
-            "company": "Svelte",
-            "designation": "Creator",
+            "name": "Matthias Stahl",
+            "avatar": "/matthias-stahl.jpg",
+            "company": "higsch",
+            "designation": "Data Visualization Specialist",
             "social": {
-              "twiiter": "https://twitter.com/Rich_Harris",
+              "twiiter": "https://twitter.com/h_i_g_s_c_h",
               "linkedin": "",
               "github": "",
               "stackoverflow": "",
@@ -104,7 +104,7 @@
       {
         "time": ["04:45 PM", "05:14 PM"],
         "title": "Moving away from classes in React",
-        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
+        "description": "React has started moving away from Class Component to Function Components for a reason. We'll try and understand why the React Team is slowly and steadily driving the whole React Community in that direction.",
         "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
         "speaker": [
           {
@@ -118,40 +118,6 @@
               "github": "",
               "stackoverflow": "",
               "website": "https://ashok.pro"
-            }
-          }
-        ]
-      },
-      {
-        "time": ["05:15 PM", "05:30 PM"],
-        "title": "Quiz and Wrap Up",
-        "description": "We’ll kick things off by sharing why we are coming together as a community and cover some of the key updates made to the platform around performance, security and privacy, as well as a look at building tools and rich content.",
-        "streamUrl": "https://www.youtube.com/channel/UCfCLaztz-aA2R2LfXMEzooQ",
-        "speaker": [
-          {
-            "name": "Gaurav Chouhan",
-            "avatar": "/gaurav-chouhan.png",
-            "company": "All About Web",
-            "designation": "Co-founder",
-            "social": {
-              "twiiter": "https://twitter.com/gauravc12",
-              "linkedin": "https://www.linkedin.com/in/gauravc12/",
-              "github": "",
-              "stackoverflow": "",
-              "website": "https://gc-codes.com/"
-            }
-          },
-          {
-            "name": "Siddharth Ajmera",
-            "avatar": "/siddharth-ajmera.png",
-            "company": "Angular",
-            "designation": "GDE",
-            "social": {
-              "twiiter": "https://twitter.com/SiddAjmera",
-              "linkedin": "https://www.linkedin.com/in/siddajmera/",
-              "github": "https://github.com/SiddAjmera",
-              "stackoverflow": "https://stackoverflow.com/users/2622292/siddajmera",
-              "website": "https://siddajmera.dev/"
             }
           }
         ]
